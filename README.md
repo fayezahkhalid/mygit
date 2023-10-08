@@ -1,3 +1,3 @@
 # mygit
-RACTRIC
+my name is git
 
